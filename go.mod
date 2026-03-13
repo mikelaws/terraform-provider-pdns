@@ -1,6 +1,6 @@
 module github.com/mikelaws/terraform-provider-pdns
 
-go 1.12
+go 1.24
 
 require (
 	github.com/coocood/freecache v1.1.1
